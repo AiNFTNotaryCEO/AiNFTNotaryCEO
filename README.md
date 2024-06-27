@@ -2,43 +2,48 @@
 
 
 ``` yaml
-Name: Costa Vega
+Name:
+Costa Vega
 
-Located in: Silicon Hills
+Located in:
+Silicon Hills
 
-Company: DocuWerx Corp
+Company:
+DocuWerx Corp
 
-Title: CEO & Tech Founder 
+Title:
+CEO & Tech Founder 
+
 Expertise: 
 
-	BA Graphic Design
-  	Certified Scrum Master
-	Autodidact Software Developer
-	
+BA Graphic Design
+Certified Scrum Master
+Software Developer
+
 
 
 Fields of Interest:
 
-	Software and Mobile App Development
-	Decentralized Technologies
-	Artificial Intelligence
-	Blockchain
-	Non-Fungible Tokens
-	Notarial Service Industry
+Software and Mobile App Development
+Decentralized Technologies
+Artificial Intelligence
+Blockchain
+Non-Fungible Tokens
+Notarial Service Industry
 
 Technical Background:
 
-	Tech Support Agent
-	Tech Business Analyst
-	Scrum Master
-	Software Developer
-	Director of Modernization
-	Chief Executive Officer
+Tech Support Agent
+Tech Business Analyst
+Scrum Master
+Software Developer
+Director of Modernization
+Chief Executive Officer
  
 
 Hobbies: Audiobles and hiking with my two dogs
 Actively_learning: Rust, Typescript, Tailwind, Solidity
-Business Goals 2023: Exposing my startup DocuWerx, our flagship technology, oNaaS™.
+Business Goals 2024: Exposing my startup DocuWerx, our flagship technology, oNaaS™.
 
 
 Combining over a decade-long tenure in Software Development & Agile Methodologies through collaborative roles
